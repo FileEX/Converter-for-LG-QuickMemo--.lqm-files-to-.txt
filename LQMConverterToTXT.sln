@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LQMConverterToTXT", "LQMConverterToTXT.csproj", "{D38BB662-49D9-40BA-A970-DF8C5CF500EE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LQM to TXT Converter", "LQM to TXT Converter.csproj", "{D38BB662-49D9-40BA-A970-DF8C5CF500EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
